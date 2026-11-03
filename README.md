@@ -156,5 +156,4 @@ documentacao/
 Produção: https://senac-resource-hub.vercel.app
  
 Banco de dados e autenticação: Supabase Cloud.
- 
-Claude terminou a resposta
+
